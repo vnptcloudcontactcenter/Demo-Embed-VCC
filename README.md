@@ -5,7 +5,7 @@
 
 - Hỗ trợ các loại ứng dụng web (web app) tích hợp tổng đài thoại VCC.
 
-- Người dùng (user) của doanh nghiệp có thể thực hiện việc tiếp nhận cuộc gọi hay gọi điện ra ra cho khách hàng thông qua số hotline VCC của Mobifone.
+- Người dùng (user) của doanh nghiệp có thể thực hiện việc tiếp nhận cuộc gọi hay gọi điện ra ra cho khách hàng thông qua số hotline VCC của Vinaphone.
 
 - Popup thông tin khách hàng khi có cuộc gọi đến
 
