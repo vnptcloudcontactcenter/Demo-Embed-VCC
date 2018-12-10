@@ -70,7 +70,7 @@ Sau khi tải project demo về, sửa lại access key, domain và agent_id tro
 - Import các lib javascript đã được VCC cung cấp sẵn vào CRM (trong đó custom.js là file js chứa các hàm VCC định nghĩa sẵn để hỗ trợ thông báo, xử lý giao diện, tương tác tuỳ theo nhu cầu của từng CRM)
 
         <script src="https://web.vcc-vinaphone.com.vn/js/embed/jquery.min.js" type="text/javascript"></script>
-        <script src="https://web.vcc-vinaphone.com.vn/js/embed/jssip-3.0.7.js" type="text/javascript"></script>
+        <script src="https://web.vcc-vinaphone.com.vn/js/embed/jssip-3.2.10.js" type="text/javascript"></script>
         <script src="https://web.vcc-vinaphone.com.vn/js/embed/init-3.0.7.js" type="text/javascript"></script>
         <script src="https://web.vcc-vinaphone.com.vn/js/embed/web.push.js" type="text/javascript"></script>
         <script src="https://web.vcc-vinaphone.com.vn/js/embed/cs_const.js" type="text/javascript"></script>
